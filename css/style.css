@@ -14,6 +14,7 @@
     --Light-grayish-blue: hsl(210, 46%, 95%);
 }
 body {
+    position: relative;
     background: var(--Light-grayish-blue);
     min-height: 100vh;
     display: flex;
